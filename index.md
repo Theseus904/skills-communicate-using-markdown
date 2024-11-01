@@ -5,3 +5,10 @@ Thank God.
 Also, an image shall be added:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+And a Code Example let's try C++ this time:
+
+``` C++
+var piece = "Hello, world!";
+```
+
