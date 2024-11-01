@@ -11,4 +11,8 @@ And a Code Example let's try C++ this time:
 ``` C++
 var piece = "Hello, world!";
 ```
+And the final piece of the puzzle:
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
