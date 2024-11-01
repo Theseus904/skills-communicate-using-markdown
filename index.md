@@ -4,4 +4,4 @@ Thank God.
 
 Also, an image shall be added:
 
-![And here comes the image! (https://octodex.github.com/images/yaktocat.png)
+![And here comes the image!] (https://octodex.github.com/images/yaktocat.png)
